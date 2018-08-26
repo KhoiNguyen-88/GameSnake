@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ceani\desktop\c++\snake\snake\main.cpp(38): warning C4101: 'id': unreferenced local variable
+  Snake.vcxproj -> C:\Users\ceani\Desktop\c++\Snake\Debug\Snake.exe
